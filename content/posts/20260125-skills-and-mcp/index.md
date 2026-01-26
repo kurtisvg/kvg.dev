@@ -15,10 +15,10 @@ decide for yourself.
 {{< /alert >}}
 
 I've been seeing a lot of discussion lately about Skills. It's not surprising -
-they've taken off in popularity over the couple of months, much like MCP did
-around this time last year. One thing that does surprise me is the discussion
-seems to focus on an undercurrent of competition between the two. They paint MCP
-and Skills as competitive ideas. Here are a few examples: 
+they've taken off in popularity over the last couple of months, much like MCP
+did around this time last year. One thing that does surprise me is the
+discussion seems to focus on an undercurrent of competition between the two.
+They paint MCP and Skills as competitive ideas. Here are a few examples: 
 
 - ["The Year in
   LLMs"](https://simonwillison.net/2025/Dec/31/the-year-in-llms/#the-only-year-of-mcp),
