@@ -22,7 +22,7 @@ layoutBackgroundHeaderSpace: false
 
 ---
 
-I'm currently a **Senior Staff Software Engineer** working on AI + Databases @ Google Cloud. With nearly a decade of experience industry-leading tech companies, I have a history of engineering scalable, reliable platforms that deliver exceptional developer experiences. 
+I'm currently a **Senior Staff Software Engineer** working on AI + Databases @ Google Cloud. With nearly a decade of experience at industry-leading tech companies, I have a history of engineering scalable, reliable platforms that deliver exceptional developer experiences. 
 
 Some of my recent accomplishments include:
 - developing and open-sourcing [MCP Toolbox for Databases](https://github.com/googleapis/genai-toolbox)
