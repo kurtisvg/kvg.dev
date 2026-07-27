@@ -266,9 +266,11 @@ Some MCP clients do offer [programmatic tool
 calling](https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling)
 in Python instead. It offers the same context savings that make the shell
 attractive because only the final output enters the model's context, not the
-intermediate tool results. It also uses a language people can actually read. The
-catch is that it isn't enabled by default and many clients don't support it yet.
-But it's a path.
+intermediate tool results. It also uses a language people can actually read.
+Unlike shell commands, those MCP calls still have schema-defined inputs and,
+when provided by the server, schema-defined outputs. The client can validate
+each boundary even when several calls are composed in code. The catch is that it
+isn't enabled by default and many clients don't support it yet. But it's a path.
 
 ### Portability and dependencies
 
@@ -414,7 +416,7 @@ what individual developers prefer. Organizations already control what software
 runs on managed machines; agents don't create that impulse, they extend it to a
 new category of tool.
 
-## In conclusion
+## Conclusion
 
 CLIs have lots of advantages, and today they probably outperform MCP tools for
 most agents on both token efficiency and overall effectiveness. That makes
